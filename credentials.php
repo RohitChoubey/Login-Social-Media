@@ -1,8 +1,8 @@
 <?php
 
 	/******Facebook APP Credentials**************/
-	$appid='276559460376749';
-	$appsecret='c0e91c9646cafd7b57570a075a1fe83e';
+	$appid='******************************';
+	$appsecret='******************************';
 	$incommingurl='http://localhost/sign-in/token.php';
 
 	/******SQL Server Credentials**************/
@@ -13,12 +13,12 @@
 
 	/******Google APP Credentials**************/
 	$redirect_url = 'http://localhost/sign-in/collectUserDataGoogle.php'; // The url of your web site
-	$client_id = '134494156078-42d18b69ji98liqhph1tac4vvb9b2pa7.apps.googleusercontent.com';
-	$client_secret = 'd_fRp7WxC0gVmmL2X2bieKmE';
-	$api_key = 'AIzaSyAzSHUO0MtJh96T1j8qzakMJGT1KzdzzOE';
+	$client_id = '******************************';
+	$client_secret = '******************************';
+	$api_key = '******************************';
 
 	/******Twitter APP Credentials**************/
-	$consumer_key='JPghQHhKDmOTCVihw0bc3Qkva';
-	$consumer_secret='etvFzOXvD7JxQeSEfuZA8NNUPO65DQezu4uulygCGTiKWg9IaJ';
+	$consumer_key='******************************';
+	$consumer_secret='******************************';
 	$oauth_callback='http://localhost/sign-in/collectUserDataTwitter.php';
 ?>
